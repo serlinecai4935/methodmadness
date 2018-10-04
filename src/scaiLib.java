@@ -8,7 +8,7 @@ public class scaiLib
       String year = str.substring(6,10);
         return year;
 
-      system.println (date+"-"+month+"-"+year)
+      System.println (date+"-"+month+"-"+year)
 
     }
 }
